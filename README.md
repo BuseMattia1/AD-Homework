@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an algorithm to calculate the minimium amount of steps that needs to be taken to transform a string into another specified string.
+This project demonstrates an algorithm to calculate the minimium amount of steps that needs to be taken to transform a string into another specified string, using the Wagner-Fischer method.
 
 ## Files
 
